@@ -1,5 +1,3 @@
-
-
 x1 = RESOLUTION_L/2;
 y1 = RESOLUTION_A - 70;
 x2 = RESOLUTION_L/2;

@@ -1,13 +1,13 @@
-/// @description Tipos de transicao, etc
+/// @description Tipos de transicao e seus atributos
 
 enum TRANS_TYPE
-{
-	SLIDE,
-	FADE,
-	PUSH,
-	STAR,
-	WIPE
-}
+	{
+		SLIDE,
+		FADE,
+		PUSH,
+		STAR,
+		WIPE
+	}
 
 width = RESOLUTION_L
 height = RESOLUTION_A

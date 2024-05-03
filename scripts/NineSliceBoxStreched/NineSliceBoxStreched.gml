@@ -1,4 +1,5 @@
-function NineSliceBoxStreched(){
+function NineSliceBoxStreched()
+{
 	
 	var _size = sprite_get_width(argument0) / 3;
 	var _x1 = argument1;

@@ -145,7 +145,6 @@
     {"id":{"name":"SCollision","path":"sprites/SCollision/SCollision.yy",},},
     {"id":{"name":"sNpc","path":"sprites/sNpc/sNpc.yy",},},
     {"id":{"name":"SquartoShadowless","path":"sprites/SquartoShadowless/SquartoShadowless.yy",},},
-    {"id":{"name":"spr_wall_frames","path":"sprites/spr_wall_frames/spr_wall_frames.yy",},},
     {"id":{"name":"oCreditos","path":"objects/oCreditos/oCreditos.yy",},},
     {"id":{"name":"oTitleScreen","path":"objects/oTitleScreen/oTitleScreen.yy",},},
     {"id":{"name":"PlayerStateFree","path":"scripts/PlayerStateFree/PlayerStateFree.yy",},},

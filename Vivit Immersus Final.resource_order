@@ -76,7 +76,6 @@
     {"name":"SCollision","order":1,"path":"sprites/SCollision/SCollision.yy",},
     {"name":"sNpc","order":1,"path":"sprites/sNpc/sNpc.yy",},
     {"name":"SquartoShadowless","order":1,"path":"sprites/SquartoShadowless/SquartoShadowless.yy",},
-    {"name":"spr_wall_frames","order":9,"path":"sprites/spr_wall_frames/spr_wall_frames.yy",},
     {"name":"oCreditos","order":10,"path":"objects/oCreditos/oCreditos.yy",},
     {"name":"oTitleScreen","order":5,"path":"objects/oTitleScreen/oTitleScreen.yy",},
     {"name":"PlayerStateFree","order":2,"path":"scripts/PlayerStateFree/PlayerStateFree.yy",},

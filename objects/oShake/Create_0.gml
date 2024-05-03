@@ -1,5 +1,4 @@
-
-
+//Atributos do tremor de tela
 shake = false;
 shake_time = 0;
 shake_magnitude = 0;

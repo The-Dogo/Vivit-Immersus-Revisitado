@@ -1,8 +1,10 @@
+//Estado neutro da personagem
 
-state = PlayerStateFree;
+state = PlayerStateFree; 
 
 image_speed = 0;
 
+//Atributos de movimento
 hSpeed = 0;
 vSpeed = 0;
 speedwalk = 2;
@@ -16,12 +18,9 @@ lastState = state;
 
 skipStepEvent = false;
 
-
 if(global.targetX != -1)
-{
-
-x = global.targetX;
-y = global.targetY;
-direction = global.targetDirection;
-	
-}
+	{
+		x = global.targetX;
+		y = global.targetY;
+		direction = global.targetDirection;
+	}

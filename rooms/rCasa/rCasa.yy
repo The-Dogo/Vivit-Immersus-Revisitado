@@ -25,9 +25,9 @@
 -150,0,2,1,45,-5,16,1,34,-5,50,1,33,-6,1,4,58,19,16,16,-6,1,1,17,-12,0,2,9,17,-14,
 0,2,9,17,-12,0,2,9,17,-14,0,2,9,17,-12,0,2,9,17,-14,0,2,9,17,-12,0,2,9,17,-14,
 0,2,9,17,-12,0,2,9,17,-6,0,1,18,-7,0,2,9,17,-12,0,2,9,17,-4,0,4,21,0,1,18,
--3,0,5,3,58,58,44,17,-18,0,4,1,18,0,1,-3,0,1,22,-3,1,5,17,22,0,0,22,-15,0,2,
-33,38,-4,0,1,56,-3,1,5,17,15,0,0,14,-15,0,-2,16,-7,0,6,9,17,15,0,0,14,-8,0,2,
-9,17,-14,0,6,9,62,57,0,0,56,-8,8,2,63,62,-14,8,1,63,],"TileDataFormat":1,},"tilesetId":{"name":"TsCollision","path":"tilesets/TsCollision/TsCollision.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+-4,0,-2,58,2,44,17,-18,0,4,1,18,0,1,-3,0,1,15,-3,1,5,17,22,0,0,22,-15,0,2,33,
+38,-4,0,1,15,-3,1,5,17,15,0,0,14,-15,0,-2,16,-7,0,6,9,17,15,0,0,14,-8,0,2,9,
+17,-14,0,6,9,62,57,0,0,56,-8,8,2,63,62,-14,8,1,63,],"TileDataFormat":1,},"tilesetId":{"name":"TsCollision","path":"tilesets/TsCollision/TsCollision.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":false,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_32D1C79B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_plyr","path":"objects/obj_plyr/obj_plyr.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":411.0,"y":200.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_360129C6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oRoomExit","path":"objects/oRoomExit/oRoomExit.yy",},"properties":[
