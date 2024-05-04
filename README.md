@@ -29,9 +29,5 @@ Eu sou Diogo Daves, <br>Estudante de desenvolvimento de software, <br>Procuro me
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=The-Dogo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Histórico de contribuição](https://github-readme-activity-graph.vercel.app/graph?username=The-Dogo&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-Dogo&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
