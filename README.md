@@ -10,7 +10,6 @@ Eu sou Diogo Daves, <br>Estudante de desenvolvimento de software, <br>Procuro me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-daves-52a6b8261) 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/diogo_daves/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/DogoDaves)
 
 # 💻 Linguagens que tenho experiência:
 
