@@ -1,4 +1,5 @@
-# 🎮  O que é este repositório ?: Este respositório vai ser uma recriação de um projeto que usei como TCC do meu curso do SENAI, atualmente irei melhorar o código aos poucos mas futuramente planejo recriar tudo do zero com todo conteúso sendo de minha autoria. 
+# 🎮  O que é este repositório ?: 
+Este respositório vai ser uma recriação de um projeto que usei como TCC do meu curso do SENAI, atualmente irei melhorar o código aos poucos mas futuramente planejo recriar tudo do zero com todo conteúso sendo de minha autoria. 
 
 
 # 🌌 Quem sou eu ?:
