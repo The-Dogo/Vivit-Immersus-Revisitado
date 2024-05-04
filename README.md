@@ -23,7 +23,7 @@ Eu sou Diogo Daves, <br>Estudante de desenvolvimento de software, <br>Procuro me
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 🎮  Meu projeto pessoal :
+# 🎮  Projeto Original:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Dogo&repo=VIVIT-IMMERSUS&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/The-Dogo/VIVIT-IMMERSUS)
 
