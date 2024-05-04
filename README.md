@@ -3,7 +3,7 @@ Este respositório vai ser uma recriação de um projeto que usei como TCC do me
 
 
 # 🌌 Quem sou eu ?:
-Eu sou Diogo Daves, <br>Estudante de Física na UFS(Universidade Federal de Sergipe), <br>Mas procuro me tornar um game designer/developer um dia,<br>sou apaixonado por jogos e tecnologia desde criança e felizmente estou conseguindo seguir meu sonho aos poucos estudando programação como autodidata e cursos online em plataformas como DIO, Linkedin Learning e Danki Code.
+Eu sou Diogo Daves, <br>Estudante de Física na UFS(Universidade Federal de Sergipe), <br>mas procuro me tornar um game designer/developer um dia,<br>sou apaixonado por jogos e tecnologia desde criança, felizmente estou conseguindo seguir meu sonho aos poucos estudando programação como autodidata e fazendo cursos online em plataformas como DIO, Linkedin Learning e Danki Code.
 
 
 ## 👤 Redes Sociais:
